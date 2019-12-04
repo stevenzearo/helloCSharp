@@ -9,9 +9,12 @@ namespace ConsoleApp2 {
 
             Console.WriteLine("-------------------");
             int[] a = {1, 2, 3, 4, 5};
-            foreach (var value in a) {
+            foreach (int value in a) {
                 Console.WriteLine("value: {0}", value);
             }
+
+            Student student = new Student("steve", 23, 87.6);
+            Console.WriteLine(student);
         }
     }
 }

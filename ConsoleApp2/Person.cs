@@ -2,20 +2,20 @@
 
 namespace ConsoleApp2 {
     public class Person {
-        private string _name;
-        private int _age;
+        protected string Name;
+        protected int Age;
 
-        public Person(string name, int age) {
-            _name = name;
-            _age = age;
+        protected Person(string name, int age) {
+            Name = name;
+            Age = age;
         }
 
         public void Say() {
-            Console.WriteLine("{0} says hello to you.", _name);
+            Console.WriteLine("{0} says hello to you.", Name);
         }
 
         public override string ToString() {
-            return $"name:{_name}, age:{_age}";
+            return $"name:{Name}, age:{Age}";
         }
     }
 }
