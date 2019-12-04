@@ -15,6 +15,11 @@ namespace ConsoleApp2 {
 
             Student student = new Student("steve", 23, 87.6);
             Console.WriteLine(student);
+
+            int result = MyMath.Process(1, 3, (val1, val2) => val1 + val2);
+            double result2 = MyMath.Process(3, 2, MyMath.Power);
+            Console.WriteLine(result);
+            Console.WriteLine(result2);
         }
     }
 }

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\steve\.Rider2019.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\steve\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_hello.381649183.00" t="ExcludeRecursive" />
-    <e p="C:\Users\steve\RiderProjects\helloCSharp" t="IncludeFlat">
+    <e p="C:\Users\steve\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_hello.1343129784.00" t="ExcludeRecursive" />
+    <e p="C:\Users\steve\RiderProjects\hello" t="IncludeFlat">
       <e p="ConsoleApp1" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
         <e p="Circle.cs" t="Include" />
