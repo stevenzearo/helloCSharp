@@ -10,7 +10,7 @@ namespace ConsoleApp1 {
             _height = heightVal;
         }
 
-        public double GetArea() {
+        double GetArea() {
             return _width * _height;
         }
 
