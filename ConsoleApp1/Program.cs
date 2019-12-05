@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace ConsoleApp1 {
-    class Program {
+    static class Program {
         private const int A = 0;
         private static int _b = A;
         static void Main() {

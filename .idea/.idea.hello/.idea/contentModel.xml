@@ -36,6 +36,19 @@
         <e p="Student.cs" t="Include" />
       </e>
       <e p="hello.sln" t="IncludeFlat" />
+      <e p="HelloStruct" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HelloStruct.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="HelloStruct.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Student.cs" t="Include" />
+      </e>
       <e p="packages" t="ExcludeRecursive" />
       <e p="SolutionFolder1" t="Include" />
       <e p="SolutionFolder2" t="Include" />

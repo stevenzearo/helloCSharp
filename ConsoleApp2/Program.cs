@@ -1,7 +1,7 @@
 ﻿using System;
 
 namespace ConsoleApp2 {
-    class Program {
+    static class Program {
         static void Main(string[] args) {
             for (int i = 0; i < 10; i++) {
                 Console.WriteLine("i: {0}", i);
