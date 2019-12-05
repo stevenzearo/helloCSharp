@@ -1,0 +1,11 @@
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\bin\Debug\netcoreapp3.0\HelloStruct.exe
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\bin\Debug\netcoreapp3.0\HelloStruct.deps.json
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\bin\Debug\netcoreapp3.0\HelloStruct.runtimeconfig.json
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\bin\Debug\netcoreapp3.0\HelloStruct.runtimeconfig.dev.json
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\bin\Debug\netcoreapp3.0\HelloStruct.dll
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\bin\Debug\netcoreapp3.0\HelloStruct.pdb
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\obj\Debug\netcoreapp3.0\HelloStruct.csprojAssemblyReference.cache
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\obj\Debug\netcoreapp3.0\HelloStruct.AssemblyInfoInputs.cache
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\obj\Debug\netcoreapp3.0\HelloStruct.AssemblyInfo.cs
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\obj\Debug\netcoreapp3.0\HelloStruct.dll
+C:\Users\steve\RiderProjects\helloCSharp\HelloStruct\obj\Debug\netcoreapp3.0\HelloStruct.pdb
