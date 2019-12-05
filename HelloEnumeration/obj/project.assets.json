@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\HelloEnumeration\\HelloEnumeration.csproj",
+      "projectName": "HelloEnumeration",
+      "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\HelloEnumeration\\HelloEnumeration.csproj",
       "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\HelloEnumeration\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"

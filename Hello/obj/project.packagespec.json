@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp2\\ConsoleApp2.csproj",
-    "projectName": "ConsoleApp2",
-    "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp2\\ConsoleApp2.csproj",
-    "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp2\\obj\\",
+    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\Hello\\Hello.csproj",
+    "projectName": "Hello",
+    "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\Hello\\Hello.csproj",
+    "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\Hello\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

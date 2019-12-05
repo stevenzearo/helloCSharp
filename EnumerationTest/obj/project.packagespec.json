@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp2\\ConsoleApp2.csproj",
-    "projectName": "ConsoleApp2",
-    "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp2\\ConsoleApp2.csproj",
-    "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp2\\obj\\",
+    "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\EnumerationTest.csproj",
+    "projectName": "EnumerationTest",
+    "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\EnumerationTest.csproj",
+    "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\EnumerationTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\EnumerationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\EnumerationTest.csproj",
+        "projectName": "EnumerationTest",
+        "projectPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\EnumerationTest.csproj",
         "packagesPath": "C:\\Users\\steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\steve\\RiderProjects\\helloCSharp\\EnumerationTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\steve\\AppData\\Roaming\\NuGet\\NuGet.Config"
